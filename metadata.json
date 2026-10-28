@@ -1,0 +1,6 @@
+{
+  "name": "Majid Real Estate - Premium Properties Islamabad",
+  "description": "Premier real estate agency in G-11 Markaz, Islamabad specializing in luxury villas, residential plots, commercial properties, rentals, and investment consultancy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
